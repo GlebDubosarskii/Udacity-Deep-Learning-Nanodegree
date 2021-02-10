@@ -11,7 +11,7 @@
 
 ![Sample Output][image1]
 
-This project focuses on the classification of dog breeds (133 breeds). First, you need to use a deep neural network that reaches an accuracy of 10%. My network categorizes dogs with 30% accuracy. Next, you need to improve the performance of the network using transfer learning. After I retrained the VGG-16 for this task, the classification accuracy went up to 82%! The project also includes the localization of human faces using the Haar feature-based cascade classifiers.
+This project focuses on the classification of dog breeds (133 breeds). First, you need to use a deep neural network that reaches an accuracy of 10%. My network categorizes dogs with 33% accuracy. Next, you need to improve the performance of the network using transfer learning. After I retrained the VGG-16 for this task, the classification accuracy went up to 84%! The project also includes the localization of human faces using the Haar feature-based cascade classifiers.
 
 
 
